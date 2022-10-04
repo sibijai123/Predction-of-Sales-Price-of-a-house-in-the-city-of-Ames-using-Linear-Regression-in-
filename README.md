@@ -1,0 +1,3 @@
+# Predction-of-Sales-Price-of-a-house-in-the-city-of-Ames-using-Linear-Regression
+1. I started off the project with Data preparation and Feature Engineering(Dealing with Outliers, Dealing with Missing Data, Dealing with Categorial data using dummy variables) 
+2. Techniques such as feature engineering, cross validation, and grid searchhave been used in this Machine Learning. We'll start off with using the final version of the Ames Housing dataset.Goal was to create a Linear Regression Model, train it on the data with the optimal parameters using a grid search, and then evaluate the model's capabilities on a test set.
